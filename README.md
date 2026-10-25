@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Giáp Chí Thanh
+Giáp Chí Thanh
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+at+HUIT;Full-Stack+Web+%26+Backend+Developer;C%23+%2F+.NET+%C2%B7+PHP+Laravel+%C2%B7+Python;Desktop+%26+Cross-Platform+Apps" alt="Typing SVG" />
