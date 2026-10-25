@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Giáp Chí Thanh (giapchithanh06) 👋
+# Hi there, I'm Giáp Chí Thanh
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+at+HUIT;Full-Stack+Web+%26+Backend+Developer;C%23+%2F+.NET+%C2%B7+PHP+Laravel+%C2%B7+Python;Desktop+%26+Cross-Platform+Apps" alt="Typing SVG" />
@@ -27,7 +27,6 @@
 - 💻 **Core Domains:** Full-Stack Web Development, Backend Systems, Desktop Applications, Cross-Platform Mobile.
 - 🧱 **What I Build:** Booking systems, e-commerce stores and management dashboards, from database design to UI.
 - 🌱 **Currently Learning:** ASP.NET Core, React, Node.js, Flutter and Docker.
-- 🤝 **Community:** Member of the **HUIT Soft Skills Club**.
 - ⚽ **Fun Fact:** When not coding, I play football, volleyball and go swimming.
 
 ---
@@ -41,7 +40,6 @@
 | **API Integration** | 🔌 Integrated **TMDB** movie data and **VietQR** payment QR codes |
 | **Code Quality** | 🧪 **PHPUnit** feature tests and scheduled jobs in a Laravel app |
 | **Security** | 🔐 bcrypt password hashing, server- and client-side validation |
-| **Extracurricular** | 🤝 Member – **HUIT Soft Skills Club** |
 
 ---
 
