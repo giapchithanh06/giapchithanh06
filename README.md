@@ -103,13 +103,6 @@
 | **[FruitBen Store](https://github.com/giapchithanh06/FruitBen-Store-Management-System)** | `JavaScript`, `jQuery`, `VietQR` | Fruit e-commerce site with VietQR checkout, order tracking and an admin dashboard with revenue reports. | 🌐 [Live Demo](https://giapchithanh06.github.io/FruitBen-Store-Management-System/) |
 | **[BIKEGO](https://github.com/giapchithanh06/bikego-laravel)** | `Laravel 8`, `MySQL`, `PHPUnit` | Public bike rental system with per-minute billing, monthly Top Bikers ranking and tested business rules. | 📂 [Source & setup](https://github.com/giapchithanh06/bikego-laravel#readme) |
 
---- | :--- | :--- |
-| **[Duo Cinema](https://github.com/giapchithanh06/CinemaTicketBooking-Management-System)** | `Python`, `Tkinter`, `TMDB API` | Desktop cinema booking & management app with QR e-tickets, revenue dashboard and a Windows `.exe` release. |
-| **[BIKEGO](https://github.com/giapchithanh06/bikego-laravel)** | `Laravel 8`, `MySQL`, `PHPUnit` | Public bike rental system with per-minute billing, monthly Top Bikers ranking and tested business rules. |
-| **[FruitBen Store](https://github.com/giapchithanh06/FruitBen-Store-Management-System)** | `JavaScript`, `jQuery`, `VietQR` | Fruit e-commerce site with VietQR checkout, order tracking and an admin dashboard with revenue reports. |
-| **[Movie Ticket Booking](https://github.com/giapchithanh06/MovieTicketBooking-Management-System)** | `HTML`, `CSS`, `JS`, `Bootstrap 5` | Cinema booking website with 7-day showtimes, interactive seat map and snack combos. |
-
----
 
 ### 📊 GitHub Statistics
 
