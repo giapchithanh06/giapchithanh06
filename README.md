@@ -35,7 +35,7 @@
 
 | Category | Achievement |
 | :--- | :--- |
-| **Projects Delivered** | 🚀 **4 complete projects** across desktop, front-end web and full-stack Laravel |
+| **Projects Delivered** | 🚀 **5 complete projects** across desktop, front-end web and full-stack Laravel |
 | **Desktop Release** | 🖥️ Packaged a Python/Tkinter cinema app into a standalone **Windows `.exe`** |
 | **API Integration** | 🔌 Integrated **TMDB** movie data and **VietQR** payment QR codes |
 | **Code Quality** | 🧪 **PHPUnit** feature tests and scheduled jobs in a Laravel app |
