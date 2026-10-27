@@ -103,6 +103,7 @@
 | **[FruitBen Store](https://github.com/giapchithanh06/FruitBen-Store-Management-System)** | `JavaScript`, `jQuery`, `VietQR` | Fruit e-commerce site with VietQR checkout, order tracking and an admin dashboard with revenue reports. | 🌐 [Live Demo](https://giapchithanh06.github.io/FruitBen-Store-Management-System/) |
 | **[BIKEGO](https://github.com/giapchithanh06/bikego-laravel)** | `Laravel 8`, `MySQL`, `PHPUnit` | Public bike rental system with per-minute billing, monthly Top Bikers ranking and tested business rules. | 📂 [Source & setup](https://github.com/giapchithanh06/bikego-laravel#readme) |
 | **[BenBooks](https://github.com/giapchithanh06/BenBooks-Store-Management-Laravel-System)** | `Laravel 8`, `PHP 7.4`, `MySQL`, `Bootstrap 5` | Book & comic e-commerce with vouchers, flash sales, online payment, admin dashboard, shipper app and AI recommendations, chatbot and fraud detection. | 📂 [Source & setup](https://github.com/giapchithanh06/BenBooks-Store-Management-Laravel-System#readme) |
+| **[SmartBen Store](https://github.com/giapchithanh06/SmartBen-Store-Management-System)** | `HTML`, `CSS`, `Bootstrap`, `JavaScript` | Phone and tablet store for students with product comparison, reviews, VietQR checkout and an admin dashboard. | 🌐 [Live Demo](https://giapchithanh06.github.io/SmartBen-Store-Management-System/) |
 
 
 ### 📊 GitHub Statistics
