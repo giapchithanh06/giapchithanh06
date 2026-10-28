@@ -35,12 +35,13 @@
 
 | Category | Achievement |
 | :--- | :--- |
-| **Projects Delivered** | 🚀 **6 complete projects** across desktop, front-end web and full-stack Laravel |
+| **Projects Delivered** | 🚀 **7 complete projects** across desktop, front-end web, full-stack Laravel and data/ML |
 | **Desktop Release** | 🖥️ Packaged a Python/Tkinter cinema app into a standalone **Windows `.exe`** |
 | **API Integration** | 🔌 Integrated **TMDB** movie data and **VietQR** payment QR codes |
+| **Algorithms from Scratch** | 🧮 Implemented **Apriori**, **FP-Growth** and **ECLAT** in pure Python, verified to produce identical results |
+| **Interactive Data App** | 📊 Built a **Streamlit** app for association rule mining with a speed comparison of the three algorithms |
 | **Code Quality** | 🧪 **PHPUnit** feature tests and scheduled jobs in a Laravel app |
 | **Security** | 🔐 bcrypt password hashing, server- and client-side validation |
-
 ---
 
 ### 🛠️ Tech Stack & Capabilities
