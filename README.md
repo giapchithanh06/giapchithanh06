@@ -104,6 +104,7 @@
 | **[BIKEGO](https://github.com/giapchithanh06/bikego-laravel)** | `Laravel 8`, `MySQL`, `PHPUnit` | Public bike rental system with per-minute billing, monthly Top Bikers ranking and tested business rules. | 📂 [Source & setup](https://github.com/giapchithanh06/bikego-laravel#readme) |
 | **[BenBooks](https://github.com/giapchithanh06/BenBooks-Store-Management-Laravel-System)** | `Laravel 8`, `PHP 7.4`, `MySQL`, `Bootstrap 5` | Book & comic e-commerce with vouchers, flash sales, online payment, admin dashboard, shipper app and AI recommendations, chatbot and fraud detection. | 📂 [Source & setup](https://github.com/giapchithanh06/BenBooks-Store-Management-Laravel-System#readme) |
 | **[SmartBen Store](https://github.com/giapchithanh06/SmartBen-Store-Management-System)** | `HTML`, `CSS`, `Bootstrap`, `JavaScript` | Phone and tablet store for students with product comparison, reviews, VietQR checkout and an admin dashboard. | 🌐 [Live Demo](https://giapchithanh06.github.io/SmartBen-Store-Management-System/) |
+| **[Market Basket Association Rules](https://github.com/giapchithanh06/market-basket-association-rules)** | `Python`, `Streamlit`, `pandas` | Association rule mining demo with Apriori, FP-Growth and ECLAT implemented from scratch, plus "frequently bought together" recommendations for a shopping cart. | 🛠️ Run locally with Streamlit |
 
 
 ### 📊 GitHub Statistics
