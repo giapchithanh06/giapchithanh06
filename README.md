@@ -35,14 +35,16 @@
 
 | Category | Achievement |
 | :--- | :--- |
-| **Projects Delivered** | 🚀 **7 complete projects** across desktop, front-end web, full-stack Laravel and data/ML |
+| **Projects Delivered** | 🚀 **8 complete projects** across desktop, front-end web, full-stack Laravel, ASP.NET MVC and data/ML |
 | **Desktop Release** | 🖥️ Packaged a Python/Tkinter cinema app into a standalone **Windows `.exe`** |
-| **API Integration** | 🔌 Integrated **TMDB** movie data and **VietQR** payment QR codes |
+| **API Integration** | 🔌 Integrated **TMDB** movie data and **VietQR** payment QR codes (in both SmartBen and FruitBen) |
+| **Full-stack .NET** | 🏗️ Built **FruitBen** on **ASP.NET MVC 5** with **Entity Framework 6**, a **Web API** and **ADO.NET** revenue reports |
 | **Algorithms from Scratch** | 🧮 Implemented **Apriori**, **FP-Growth** and **ECLAT** in pure Python, verified to produce identical results |
 | **Interactive Data App** | 📊 Built a **Streamlit** app for association rule mining with a speed comparison of the three algorithms |
 | **Code Quality** | 🧪 **PHPUnit** feature tests and scheduled jobs in a Laravel app |
-| **Security** | 🔐 bcrypt password hashing, server- and client-side validation |
+| **Security** | 🔐 bcrypt and **PBKDF2** password hashing, role-based admin access, server- and client-side validation |
 ---
+
 
 ### 🛠️ Tech Stack & Capabilities
 
@@ -105,6 +107,7 @@
 | **[BIKEGO](https://github.com/giapchithanh06/bikego-laravel)** | `Laravel 8`, `MySQL`, `PHPUnit` | Public bike rental system with per-minute billing, monthly Top Bikers ranking and tested business rules. | 📂 [Source & setup](https://github.com/giapchithanh06/bikego-laravel#readme) |
 | **[BenBooks](https://github.com/giapchithanh06/BenBooks-Store-Management-Laravel-System)** | `Laravel 8`, `PHP 7.4`, `MySQL`, `Bootstrap 5` | Book & comic e-commerce with vouchers, flash sales, online payment, admin dashboard, shipper app and AI recommendations, chatbot and fraud detection. | 📂 [Source & setup](https://github.com/giapchithanh06/BenBooks-Store-Management-Laravel-System#readme) |
 | **[SmartBen Store](https://github.com/giapchithanh06/SmartBen-Store-Management-System)** | `HTML`, `CSS`, `Bootstrap`, `JavaScript` | Phone and tablet store for students with product comparison, reviews, VietQR checkout and an admin dashboard. | 🌐 [Live Demo](https://giapchithanh06.github.io/SmartBen-Store-Management-System/) |
+| **[FruitBen Store](https://github.com/giapchithanh06/FruitBen-Store-Management-ASPNET-MVC-System)** | `ASP.NET MVC 5`, `Entity Framework`, `SQL Server`, `Web API`, `Bootstrap` | Fruit store with cart, discount codes, COD/VietQR checkout, order management and an admin dashboard with ADO.NET revenue reports. | 💻 [Source Code](https://github.com/giapchithanh06/FruitBen-Store-Management-ASPNET-MVC-System) |
 | **[Market Basket Association Rules](https://github.com/giapchithanh06/market-basket-association-rules)** | `Python`, `Streamlit`, `pandas` | Association rule mining demo with Apriori, FP-Growth and ECLAT implemented from scratch, plus "frequently bought together" recommendations for a shopping cart. | 📂 [Source & setup](https://github.com/giapchithanh06/market-basket-association-rules) |
 
 
